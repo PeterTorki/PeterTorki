@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Joseph</h1>
-<h3 align="center">An ambitious student at FCI SCU </h3>
+<h3 align="center">An ambitious CS student at FCI SCU </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petertokri&label=Profile%20views&color=0e75b6&style=flat" alt="petertokri" /> </p>
 
