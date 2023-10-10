@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/peter_torki" target="blank"><img src="https://img.shields.io/twitter/follow/peter_torki?logo=twitter&style=for-the-badge" alt="peter_torki" /></a> </p>
 
 - 📫 How to reach me **Peter.j.torki@gmail.com**
-
+[![An image of @peter_torki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/peter_torki)](https://holopin.io/@peter_torki)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peter_torki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peter_torki" height="30" width="40" /></a>
