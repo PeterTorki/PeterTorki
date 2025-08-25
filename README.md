@@ -1,12 +1,3 @@
-<h1 align="center"><p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=MEARN+Stack+Developer+%40ITI;Army+Program+4+Months;Full+Stack+Web+Development;Always+learning+new+technologies;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
-</p>
-
-<br>
-
 <!--
 <p align="center">
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
@@ -22,13 +13,15 @@
 
 <br><br>
 
-- 👨‍💻 I'm currently at **ITI (Army Program)** - MEARN Stack Developer for 4 Months
-- :school: I'm passionate about **Full Stack Web Development** and modern technologies
-- :computer: I specialize in **MEARN Stack** (MongoDB, Express.js, Angular, React, Node.js)
+- 👨‍💻 **Freelance Software Engineer** - Specializing in React Native & React JS development
+- 🎓 **Computer Science Graduate** from Suez Canal University (2020-2024)
+- 📱 **Mobile App Developer** - Passionate about creating innovative mobile solutions
+- 🚀 **5+ Projects Delivered** - Enhancing user engagement by 20% through innovative solutions
+- 🤝 **95% Client Satisfaction Rate** - Successfully collaborated with 10+ remote clients
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new technologies and best practices
-- :thinking: This is [MY RESUME](petertorki_Resume.pdf).
-- :boom: Passionate about creating efficient and scalable web applications
+- :thinking: This is [MY RESUME](PeterJosephTorki_Resume.pdf).
+- :boom: Passionate about creating efficient and scalable mobile applications
   <br>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=g" width=10%> My Development Profiles
@@ -47,7 +40,7 @@
 ## <img src="./Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 
 <p align="center">
-	<a href="mailto:pjturki"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:pjturki@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/petertorki"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/petertorki/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/peter_torki"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -80,9 +73,13 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.w3schools.com/c/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?style=plastic&logo=c&logoColor=white">
+  </a>
 </p>
 
-### <img src = "./Images/Front_End.gif?raw=true" width=5%> Frontend Development
+### <img src = "./Images/Front_End.gif?raw=true" width=5%> Frontend & Mobile Development
 
 <p align="center"> 
   &emsp; 
@@ -98,24 +95,18 @@
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
-  <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
+  <a href="https://expo.dev/" target="_blank">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-%23000000.svg?style=plastic&logo=expo&logoColor=white">
+  </a>
 </p>
 
-### <img src = "./Images/Software_Tools.gif?raw=true" width=5%> Backend & Database
+### <img src = "./Images/Software_Tools.gif?raw=true" width=5%> Development Tools & Platforms
 
 <p align="center">
-  &emsp;
-    <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
-  &emsp;
-    <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?style=plastic&logo=express&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
   &emsp;
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -125,7 +116,9 @@
   &emsp;
     <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"></a>
   &emsp;
-    <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black"></a>
+  &emsp;
+    <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socket.io&logoColor=white"></a>
 </p>
 
 ### <img src = "./Images/IDEs.gif?raw=true" width=5%> IDEs & Tools
@@ -173,6 +166,43 @@
 
 ---
 
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Featured Projects
+
+### 🏥 Medical Society App - React Native
+**Graduation Project** | [Video Demo](link) | [GitHub](link)
+- **React Native + Expo** mobile app improving patient-doctor communication
+- **AI-powered chatbot** and **OCR for prescription scanning** - reducing diagnosis time by 50%
+- **IoT integration** for continuous heart rate monitoring - 25% improvement in health outcomes
+- **Real-time features** using Socket.io, Firebase, and RESTful APIs
+- **Tech Stack:** React Native, Expo, Hooks, Context, React Navigation, Firebase, Socket.io
+
+### 🎮 Connect 4 Game - React Native
+**AI University Project** | [Video Demo](link) | [GitHub](link)
+- **React Native + Expo** mobile game with offline play capability
+- **AI opponent** implementation for enhanced gaming experience
+- **Cross-platform** mobile application
+
+### ☕ Chill Cup - React Web App
+**ITI Internship Project** | [Live Demo](link) | [GitHub](link)
+- **Online café shop** application with user authentication
+- **Order management** system with order history tracking
+- **Tech Stack:** React JS, Router, Hooks, Context, Bootstrap, Toastify
+
+### 📝 Blogs App - React Native
+**Self-Learning Project** | [GitHub](link)
+- **Blog application** with CRUD operations using APIs
+- **User authentication** and navigation features
+- **Tech Stack:** React Native, Expo, Context API
+
+### ❓ Quiz App - React Web App
+**Self-Learning Project** | [Live Demo](link) | [GitHub](link)
+- **MCQ practice application** with timer functionality
+- **General information** quiz system
+- **20% increase** in user practice efficiency
+- **Tech Stack:** React JS, Context API
+
+---
+
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -216,28 +246,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petertorki&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="petertorki" /></a> </p>
 	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
----
-
-<div>
-  <!-- <p align="center">
-	<a href="https://github.com/petertorki/MEARN-Stack-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=peter_torki&repo=MEARN-Stack-Projects&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/petertorki/Web-Development-Projects">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=peter_torki&repo=Web-Development-Projects&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/petertorki/Problem-Solving">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=peter_torki&repo=Problem-Solving&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/petertorki/Portfolio-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=peter_torki&repo=Portfolio-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p> -->
-</div>
 </details>
 
 </br></br>
