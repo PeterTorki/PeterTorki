@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center"><p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=MEARN+Stack+Developer+%40ITI;Army+Program+4+Months;Full+Stack+Web+Development;Always+learning+new+technologies;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
