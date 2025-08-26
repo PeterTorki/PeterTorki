@@ -13,6 +13,7 @@
 
 <br><br>
 
+- 📖 **Trainee** - @ITI (Army Program) 4-Months MEARN stack
 - 👨‍💻 **Freelance Software Engineer** - Specializing in React Native & React JS development
 - 🎓 **Computer Science Graduate** from Suez Canal University (2020-2024)
 - 📱 **Mobile App Developer** - Passionate about creating innovative mobile solutions
